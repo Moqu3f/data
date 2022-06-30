@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 6
+names: ['1000uah', '100uah', '200uah', '20uah', '500uah', '50uah']
